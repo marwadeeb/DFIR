@@ -7,10 +7,10 @@ import pandas as pd
 
 # --- ARGUMENT PARSING ---
 parser = argparse.ArgumentParser(description="Parse call, message, WhatsApp, and Telegram logs into unified format")
-parser.add_argument("-o", "--output", required=True, help="Base name for output file (without extension)")
+parser.add_argument("-o", "--output", required=True, help="Name for output file")
 args = parser.parse_args()
 
-OUTPUT_FILE = f"{args.output}_unified.csv"
+OUTPUT_FILE = f"{args.output}"
 
 # CONFIGURATION
 CALLS_FILE = "calls_parsed_output.csv"            # Path to parsed calls CSV
