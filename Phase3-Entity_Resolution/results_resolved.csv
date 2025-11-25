@@ -1,0 +1,103 @@
+chat_id,source,sender,receiver,timestamp,message,direction,comm_type,sender_resolved,receiver_resolved
+WA_Jad_012330,WhatsApp,jad,jad,2025-11-14 01:14:00+00:00,BroMovie night this weekend?,inbound,whatsapp,jad,jad
+WA_Jad_012330,WhatsApp,USER_SELF,jad,2025-11-14 01:14:00+00:00,Yes!Finally some free time,outbound,whatsapp,user_self,jad
+WA_Layla_012412,WhatsApp,layla,layla,2025-11-14 00:38:00+00:00,Are you coming for lunch tomorrow?Your sister will be there,inbound,whatsapp,layla,layla
+WA_Layla_012412,WhatsApp,USER_SELF,layla,2025-11-14 00:38:00+00:00,I'll try mamaDepends on meetings,outbound,whatsapp,user_self,layla
+WA_Michel_012314,WhatsApp,USER_SELF,michel,2025-11-11 21:36:00+00:00,.,outbound,whatsapp,user_self,michel
+WA_Michel_012314,WhatsApp,USER_SELF,michel,2025-11-11 21:36:00+00:00,.,outbound,whatsapp,user_self,michel
+WA_Michel_012314,WhatsApp,USER_SELF,michel,2025-11-14 01:15:00+00:00,.,outbound,whatsapp,user_self,michel
+WA_Michel_012314,WhatsApp,USER_SELF,michel,2025-11-14 01:16:00+00:00,.,outbound,whatsapp,user_self,michel
+WA_Michel_012314,WhatsApp,michel,michel,2025-11-14 01:16:00+00:00,Don't forget the USB from your drawer tomorrow,inbound,whatsapp,michel,michel
+WA_Michel_012314,WhatsApp,USER_SELF,michel,2025-11-14 01:16:00+00:00,Sure dad,outbound,whatsapp,user_self,michel
+WA_Nadia_012359,WhatsApp,nadia,nadia,2025-11-13 22:40:00+00:00,Morning Alex,inbound,whatsapp,nadia,nadia
+WA_Nadia_012359,WhatsApp,nadia,nadia,2025-11-13 22:41:00+00:00,Did you finalize the updates for project Alpha?,inbound,whatsapp,nadia,nadia
+WA_Nadia_012359,WhatsApp,USER_SELF,nadia,2025-11-13 22:42:00+00:00,Morning!,outbound,whatsapp,user_self,nadia
+WA_Nadia_012359,WhatsApp,USER_SELF,nadia,2025-11-13 22:42:00+00:00,"Yes, almost done",outbound,whatsapp,user_self,nadia
+WA_Nadia_012359,WhatsApp,USER_SELF,nadia,2025-11-13 22:43:00+00:00,Sending the updated specs after my meeting,outbound,whatsapp,user_self,nadia
+WA_Nadia_012359,WhatsApp,nadia,nadia,2025-11-13 22:43:00+00:00,Perfect,inbound,whatsapp,nadia,nadia
+WA_Nadia_012359,WhatsApp,nadia,nadia,2025-11-13 23:55:00+00:00,Share the pdf when ready,inbound,whatsapp,nadia,nadia
+WA_Nadia_012359,WhatsApp,nadia,nadia,2025-11-13 23:55:00+00:00,"Just saw the pdf, thanks",inbound,whatsapp,nadia,nadia
+WA_Nadia_012359,WhatsApp,nadia,nadia,2025-11-13 23:56:00+00:00,Can you send the raw numbers too?,inbound,whatsapp,nadia,nadia
+WA_Nadia_012359,WhatsApp,USER_SELF,nadia,2025-11-14 01:01:00+00:00,I'll wrap them into one excel and share shortly,outbound,whatsapp,user_self,nadia
+WA_Nadia_012359,WhatsApp,nadia,nadia,2025-11-14 01:01:00+00:00,Morning!Are the results ready?,inbound,whatsapp,nadia,nadia
+WA_Nadia_012359,WhatsApp,USER_SELF,nadia,2025-11-14 01:01:00+00:00,Working on last adjustments,outbound,whatsapp,user_self,nadia
+WA_Samir_012344,WhatsApp,USER_SELF,samir,2025-11-13 22:44:00+00:00,Hi Samir,outbound,whatsapp,user_self,samir
+WA_Samir_012344,WhatsApp,USER_SELF,samir,2025-11-13 22:45:00+00:00,I uploaded alpha_specs_v2.pdf on the shared drive,outbound,whatsapp,user_self,samir
+WA_Samir_012344,WhatsApp,samir,samir,2025-11-13 22:45:00+00:00,got it,inbound,whatsapp,samir,samir
+WA_Samir_012344,WhatsApp,samir,samir,2025-11-13 22:46:00+00:00,I will check compatibilty issues today,inbound,whatsapp,samir,samir
+WA_Samir_012344,WhatsApp,USER_SELF,samir,2025-11-13 22:46:00+00:00,Check section 4.2,outbound,whatsapp,user_self,samir
+WA_Samir_012344,WhatsApp,USER_SELF,samir,2025-11-13 22:51:00+00:00,Found some inconsistencies,outbound,whatsapp,user_self,samir
+WA_Samir_012344,WhatsApp,samir,samir,2025-11-13 22:53:00+00:00,Can you send it via telegram?,inbound,whatsapp,samir,samir
+WA_Samir_012344,WhatsApp,USER_SELF,samir,2025-11-13 23:21:00+00:00,Yes sure just a sec,outbound,whatsapp,user_self,samir
+WA_Samir_012344,WhatsApp,samir,samir,2025-11-14 00:31:00+00:00,Great! Call you later,inbound,whatsapp,samir,samir
+WA_Samir_012344,WhatsApp,samir,samir,2025-11-14 00:31:00+00:00,"By the way, the file you sent earlier shows v2.1 in the headerMine says v2. Did you rename it?",inbound,whatsapp,samir,samir
+WA_Samir_012344,WhatsApp,USER_SELF,samir,2025-11-14 00:32:00+00:00,NoI sent exactly what I exportedMaybe the telegram compression changed something?,outbound,whatsapp,user_self,samir
+WA_Samir_012344,WhatsApp,samir,samir,2025-11-14 00:41:00+00:00,PossiblyLet's re-align tomorrow Too many versions floating around,inbound,whatsapp,samir,samir
+WA_Samir_012344,WhatsApp,samir,samir,2025-11-14 00:43:00+00:00,Did you put the corrected table in the shared drive? I can't see it,inbound,whatsapp,samir,samir
+WA_Samir_012344,WhatsApp,USER_SELF,samir,2025-11-14 00:43:00+00:00,No network is slowI'll send it directly via telegram,outbound,whatsapp,user_self,samir
+WA_Samir_012344,WhatsApp,samir,samir,2025-11-14 01:01:00+00:00,AlrightSame folder as yesterday,inbound,whatsapp,samir,samir
+WA_Samir_012344,WhatsApp,USER_SELF,samir,2025-11-14 01:02:00+00:00,I've uploaded stability_report.pdf now,outbound,whatsapp,user_self,samir
+WA_Samir_012344,WhatsApp,samir,samir,2025-11-14 01:02:00+00:00,This is v4? I had only seen up to v3,inbound,whatsapp,samir,samir
+WA_Samir_012344,WhatsApp,USER_SELF,samir,2025-11-14 01:02:00+00:00,"V4 has minor formatting fixes, nothing bug",outbound,whatsapp,user_self,samir
+WA_زوجتي_حياتي_012252,WhatsApp,,,2025-11-14 01:09:00+00:00,IMG-20251113-WA0000.jpg (file attached),inbound,whatsapp,,
+WA_زوجتي_حياتي_012252,WhatsApp,,,2025-11-14 01:22:00+00:00,IMG-20251114-WA0000.jpg (file attached),inbound,whatsapp,,
+WA_زوجتي_حياتي_012252,WhatsApp,,,2025-11-14 04:27:00+00:00,IMG-20251114-WA0001.jpg (file attached),inbound,whatsapp,,
+WA_زوجتي_حياتي_012252,WhatsApp,,,2025-11-14 04:27:00+00:00,IMG-20251114-WA0000.jpg (file attached),inbound,whatsapp,,
+WA_محمود_رمضان_Ramadane_012453,WhatsApp,ramadane,ramadane,2025-11-13 14:09:00+00:00,PTT-20251112-WA0000.opus (file attached),inbound,whatsapp,ramadane,ramadane
+WA_محمود_رمضان_Ramadane_012453,WhatsApp,USER_SELF,,2025-11-17 13:24:00+00:00,IMG-20251117-WA0001.jpg (file attached),outbound,whatsapp,user_self,
+TG_Alpha_Updates,Telegram,USER_SELF,alpha_updates,2025-11-13 21:21:02+00:00,Prototype A is stable,outbound,telegram,user_self,alpha_updates
+TG_Alpha_Updates,Telegram,samir,USER_SELF,2025-11-13 21:21:34+00:00,Running diagnostics now,inbound,telegram,samir,user_self
+TG_Alpha_Updates,Telegram,rania,USER_SELF,2025-11-13 21:26:40+00:00,Great,inbound,telegram,rania,user_self
+TG_Alpha_Updates,Telegram,rania,USER_SELF,2025-11-13 22:49:29+00:00,Let's finalize module C notes by tonight,inbound,telegram,rania,user_self
+TG_Alpha_Updates,Telegram,samir,USER_SELF,2025-11-13 22:50:09+00:00,I'll upload the sanitized version around 8 pm,inbound,telegram,samir,user_self
+TG_Alpha_Updates,Telegram,USER_SELF,alpha_updates,2025-11-13 22:51:33+00:00,Copy,outbound,telegram,user_self,alpha_updates
+TG_Rania,Telegram,rania,USER_SELF,2025-11-13 21:30:26+00:00,Did you see the notes I added to today's summary?,inbound,telegram,rania,user_self
+TG_Rania,Telegram,USER_SELF,rania,2025-11-13 21:31:38+00:00,Yes,outbound,telegram,user_self,rania
+TG_Rania,Telegram,rania,USER_SELF,2025-11-13 21:32:06+00:00,Let's finalize by Thursday,inbound,telegram,rania,user_self
+TG_Rania,Telegram,rania,USER_SELF,2025-11-13 22:26:36+00:00,"Also, for the documents we discussed, try not to send it over the company channel",inbound,telegram,rania,user_self
+TG_Rania,Telegram,USER_SELF,rania,2025-11-13 22:27:29+00:00,Alright,outbound,telegram,user_self,rania
+TG_Rania,Telegram,rania,USER_SELF,2025-11-13 22:40:18+00:00,"Before we share the weekly update, let's keep the preliminary results internal",inbound,telegram,rania,user_self
+TG_Rania,Telegram,USER_SELF,rania,2025-11-13 22:40:38+00:00,Agreed,outbound,telegram,user_self,rania
+TG_Rania,Telegram,rania,USER_SELF,2025-11-13 23:04:21+00:00,Let's only use the version from last night for the early briefing,inbound,telegram,rania,user_self
+TG_Rania,Telegram,USER_SELF,rania,2025-11-13 23:04:37+00:00,Got it,outbound,telegram,user_self,rania
+TG_Rania,Telegram,rania,USER_SELF,2025-11-13 23:05:03+00:00,No,inbound,telegram,rania,user_self
+TG_Samir,Telegram,USER_SELF,samir,2025-11-13 21:07:36+00:00,Here you go,outbound,telegram,user_self,samir
+TG_Samir,Telegram,samir,USER_SELF,2025-11-13 21:20:37+00:00,Thank you,inbound,telegram,samir,user_self
+TG_Samir,Telegram,samir,USER_SELF,2025-11-13 22:24:48+00:00,Don't upload the older diagrams to the shared drive yet,inbound,telegram,samir,user_self
+TG_Samir,Telegram,USER_SELF,samir,2025-11-13 22:25:26+00:00,Okay...,outbound,telegram,user_self,samir
+TG_Samir,Telegram,samir,USER_SELF,2025-11-13 22:48:20+00:00,Got it,inbound,telegram,samir,user_self
+TG_Samir,Telegram,USER_SELF,samir,2025-11-13 22:48:40+00:00,No idea why it shows that,outbound,telegram,user_self,samir
+TG_Samir,Telegram,samir,USER_SELF,2025-11-13 22:59:42+00:00,Can you double check your spreadsheet? It shows entries duplicated,inbound,telegram,samir,user_self
+TG_Samir,Telegram,USER_SELF,samir,2025-11-13 23:00:05+00:00,That's weird,outbound,telegram,user_self,samir
+TG_Samir,Telegram,samir,USER_SELF,2025-11-13 23:00:18+00:00,I'll send a screenshot tomorrow,inbound,telegram,samir,user_self
+TG_Samir,Telegram,samir,USER_SELF,2025-11-13 23:11:51+00:00,Final question: which file should we publish internally?,inbound,telegram,samir,user_self
+TG_Samir,Telegram,USER_SELF,samir,2025-11-13 23:12:23+00:00,Use v2_approved,outbound,telegram,user_self,samir
+CALL_LOG,PhoneCall,USER_SELF,tel70012859,2025-11-13 23:09:25+00:00,Call Duration: 00:00:27,outgoing,call,user_self,tel70012859
+CALL_LOG,PhoneCall,USER_SELF,namesamirtel81924233namematchedsamir,2025-11-13 23:08:16+00:00,Call Duration: 00:00:35,outgoing,call,user_self,namesamirtel81924233namematchedsamir
+CALL_LOG,PhoneCall,namenadiatel71130176namematchednadia,USER_SELF,2025-11-13 23:07:25+00:00,Call Duration: 00:00:39,incoming,call,namenadiatel71130176namematchednadia,user_self
+CALL_LOG,PhoneCall,nameraniatel71277706namematchedrania,USER_SELF,2025-11-14 02:58:06+00:00,Call Duration: 00:00:47,incoming,call,nameraniatel71277706namematchedrania,user_self
+CALL_LOG,PhoneCall,USER_SELF,namesamirtel81924233namematchedsamir,2025-11-14 02:56:25+00:00,Call Duration: 00:01:05,outgoing,call,user_self,namesamirtel81924233namematchedsamir
+CALL_LOG,PhoneCall,USER_SELF,tel70012859,2025-11-14 02:55:31+00:00,Call Duration: 00:00:19,outgoing,call,user_self,tel70012859
+CALL_LOG,PhoneCall,USER_SELF,namenadiatel71130176namematchednadia,2025-11-14 02:53:23+00:00,Call Duration: 00:01:07,outgoing,call,user_self,namenadiatel71130176namematchednadia
+CALL_LOG,PhoneCall,namenadiatel71130176namematchednadia,USER_SELF,2025-11-14 01:51:34+00:00,Call Duration: 00:01:10,incoming,call,namenadiatel71130176namematchednadia,user_self
+CALL_LOG,PhoneCall,USER_SELF,tel70012859,2025-11-14 01:50:09+00:00,Call Duration: 00:00:26,outgoing,call,user_self,tel70012859
+CALL_LOG,PhoneCall,namesamirtel81924233namematchedsamir,USER_SELF,2025-11-14 01:48:02+00:00,Call Duration: 00:01:05,incoming,call,namesamirtel81924233namematchedsamir,user_self
+CALL_LOG,PhoneCall,namesamirtel81924233namematchedsamir,USER_SELF,2025-11-14 01:46:16+00:00,Call Duration: nan,incoming,call,namesamirtel81924233namematchedsamir,user_self
+CALL_LOG,PhoneCall,tel00966597942174,USER_SELF,2025-11-10 09:06:44+00:00,Call Duration: 00:00:22,incoming,call,tel00966597942174,user_self
+CALL_LOG,PhoneCall,tel0043142409870411,USER_SELF,2025-11-10 08:59:20+00:00,Call Duration: 00:00:00,incoming,call,tel0043142409870411,user_self
+CALL_LOG,PhoneCall,USER_SELF,namemicheltel81609004namematchedmichel,2025-11-10 08:57:56+00:00,Call Duration: 00:00:00,outgoing,call,user_self,namemicheltel81609004namematchedmichel
+SYS_MSG,SystemMessage,USER_SELF,tel+96171130176namematchednadia,2025-11-13 23:06:32+00:00,On it,outgoing,system_message,user_self,tel+96171130176namematchednadia
+SYS_MSG,SystemMessage,tel+96171130176namematchednadia,USER_SELF,2025-11-13 23:06:23+00:00,Meeting at 4pm,incoming,system_message,tel+96171130176namematchednadia,user_self
+SYS_MSG,SystemMessage,tel+96181924233namematchedsamir,USER_SELF,2025-11-14 02:53:14+00:00,"The one named rev_final2
+Make sure not to use rev2_final, old numbers",incoming,system_message,tel+96181924233namematchedsamir,user_self
+SYS_MSG,SystemMessage,USER_SELF,tel+96181924233namematchedsamir,2025-11-14 02:52:11+00:00,"Samir,
+Which version did you edit earlier?",outgoing,system_message,user_self,tel+96181924233namematchedsamir
+SYS_MSG,SystemMessage,tel+96181924233namematchedsamir,USER_SELF,2025-11-14 01:31:10+00:00,Okay I will join,incoming,system_message,tel+96181924233namematchedsamir,user_self
+SYS_MSG,SystemMessage,USER_SELF,tel+96181924233namematchedsamir,2025-11-14 01:27:56+00:00,"Meeting rescheduled to 7pm, online",outgoing,system_message,user_self,tel+96181924233namematchedsamir
+SYS_MSG,SystemMessage,telmicrosoft,USER_SELF,2025-11-14 01:03:11+00:00,استخدام 697550 كرمز إعادة تعيين كلمة مرور حساب Microsoft,incoming,system_message,telmicrosoft,user_self
+SYS_MSG,SystemMessage,teltouch,USER_SELF,2025-11-09 23:59:16+00:00,"Dear customer, 10 validity days were transferred to your line validity balance from mobile number 81807484. Your new line validity date is 2025-12-09.",incoming,system_message,teltouch,user_self
+SYS_MSG,SystemMessage,teltouch,USER_SELF,2025-11-09 23:59:12+00:00,"Dear customer, 10 validity days were transferred to your line validity balance from mobile number 81833201. Your new line validity date is 2025-11-29.",incoming,system_message,teltouch,user_self
+SYS_MSG,SystemMessage,teltouch,USER_SELF,2025-11-09 09:15:07+00:00,"Dear customer, your line validity will expire today.  You can now extend your line validity with the new ""Emergency Validity"" service! Send an SMS to 1177 with ""EV5"" and get 5 extra days of validity ($1.1).",incoming,system_message,teltouch,user_self
+SYS_MSG,SystemMessage,telmot,USER_SELF,2025-11-08 17:38:53+00:00,عزيزي المشترك، إن جهازك Samsung Galaxy J6+ ورقم هويته IMEI هو 359992096281998 قد تم استعماله من قبل,incoming,system_message,telmot,user_self
+SYS_MSG,SystemMessage,telmot,USER_SELF,2025-11-08 17:38:43+00:00,"Dear Subscriber, this Samsung Galaxy J6+ with IMEI 359992096281998 was used before",incoming,system_message,telmot,user_self
+SYS_MSG,SystemMessage,teltouch,USER_SELF,2025-11-08 17:36:51+00:00,"عزيزي المشترك، سوف تنتهي صلاحية خطك قريباً. يمكنك الآن تمديد هذه الصلاحية مع خدمة Emergency Validity الجديدة! أرسل رسالة قصيرة SMS على 1177 تتضمن ""EV3"" واحصل على 3 ايام اضافية (0.67$).",incoming,system_message,teltouch,user_self
