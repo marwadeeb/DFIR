@@ -1,0 +1,15 @@
+chat_id,source,sender,receiver,timestamp,message,direction
+CALL_LOG,PhoneCall,Forensics11,Tel: 70012859,2025-11-14T01:09:25+02:00,Call Duration: 00:00:27,outgoing
+CALL_LOG,PhoneCall,Forensics11,Name: Samir;Tel: 81924233;Name (Matched): Samir,2025-11-14T01:08:16+02:00,Call Duration: 00:00:35,outgoing
+CALL_LOG,PhoneCall,Name: Nadia;Tel: 71130176;Name (Matched): Nadia,Forensics11,2025-11-14T01:07:25+02:00,Call Duration: 00:00:39,incoming
+CALL_LOG,PhoneCall,Name: Rania;Tel: 71277706;Name (Matched): Rania,Forensics11,2025-11-14T00:58:06-02:00,Call Duration: 00:00:47,incoming
+CALL_LOG,PhoneCall,Forensics11,Name: Samir;Tel: 81924233;Name (Matched): Samir,2025-11-14T00:56:25-02:00,Call Duration: 00:01:05,outgoing
+CALL_LOG,PhoneCall,Forensics11,Tel: 70012859,2025-11-14T00:55:31-02:00,Call Duration: 00:00:19,outgoing
+CALL_LOG,PhoneCall,Forensics11,Name: Nadia;Tel: 71130176;Name (Matched): Nadia,2025-11-14T00:53:23-02:00,Call Duration: 00:01:07,outgoing
+CALL_LOG,PhoneCall,Name: Nadia;Tel: 71130176;Name (Matched): Nadia,Forensics11,2025-11-13T23:51:34-02:00,Call Duration: 00:01:10,incoming
+CALL_LOG,PhoneCall,Forensics11,Tel: 70012859,2025-11-13T23:50:09-02:00,Call Duration: 00:00:26,outgoing
+CALL_LOG,PhoneCall,Name: Samir;Tel: 81924233;Name (Matched): Samir,Forensics11,2025-11-13T23:48:02-02:00,Call Duration: 00:01:05,incoming
+CALL_LOG,PhoneCall,Name: Samir;Tel: 81924233;Name (Matched): Samir,Forensics11,2025-11-13T23:46:16-02:00,Call Duration: nan,incoming
+CALL_LOG,PhoneCall,Tel: 00966597942174,Forensics11,2025-11-10T11:06:44+02:00,Call Duration: 00:00:22,incoming
+CALL_LOG,PhoneCall,Tel: 0043142409870411,Forensics11,2025-11-10T10:59:20+02:00,Call Duration: 00:00:00,incoming
+CALL_LOG,PhoneCall,Forensics11,Name: Michel;Tel: 81609004;Name (Matched): Michel,2025-11-10T10:57:56+02:00,Call Duration: 00:00:00,outgoing

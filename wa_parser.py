@@ -4,7 +4,7 @@ import csv
 from datetime import datetime
 
 # CONFIGURATION
-DATA_ROOT = "./wa 81663932"  # Root WhatsApp extraction directory
+DATA_ROOT = "../wa 81663932"  # Root WhatsApp extraction directory
 OUTPUT_FILE = "whatsapp_parsed_output.csv"
 USER_NAME = "Forensics11"  # The forensic user's name
 

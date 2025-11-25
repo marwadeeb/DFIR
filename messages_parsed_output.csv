@@ -1,0 +1,16 @@
+chat_id,source,sender,receiver,timestamp,message,direction
+SYS_MSG,SystemMessage,Forensics11,Tel: +96171130176;Name (Matched): Nadia,2025-11-14T01:06:32+02:00,On it,outgoing
+SYS_MSG,SystemMessage,Tel: +96171130176;Name (Matched): Nadia,Forensics11,2025-11-14T01:06:23+02:00,Meeting at 4pm,incoming
+SYS_MSG,SystemMessage,Tel: +96181924233;Name (Matched): Samir,Forensics11,2025-11-14T00:53:14-02:00,"The one named rev_final2
+Make sure not to use rev2_final, old numbers",incoming
+SYS_MSG,SystemMessage,Forensics11,Tel: +96181924233;Name (Matched): Samir,2025-11-14T00:52:11-02:00,"Samir,
+Which version did you edit earlier?",outgoing
+SYS_MSG,SystemMessage,Tel: +96181924233;Name (Matched): Samir,Forensics11,2025-11-13T23:31:10-02:00,Okay I will join,incoming
+SYS_MSG,SystemMessage,Forensics11,Tel: +96181924233;Name (Matched): Samir,2025-11-13T23:27:56-02:00,"Meeting rescheduled to 7pm, online",outgoing
+SYS_MSG,SystemMessage,Tel: Microsoft,Forensics11,2025-11-13T23:03:11-02:00,استخدام 697550 كرمز إعادة تعيين كلمة مرور حساب Microsoft,incoming
+SYS_MSG,SystemMessage,Tel: touch,Forensics11,2025-11-09T21:59:16-02:00,"Dear customer, 10 validity days were transferred to your line validity balance from mobile number 81807484. Your new line validity date is 2025-12-09.",incoming
+SYS_MSG,SystemMessage,Tel: touch,Forensics11,2025-11-09T21:59:12-02:00,"Dear customer, 10 validity days were transferred to your line validity balance from mobile number 81833201. Your new line validity date is 2025-11-29.",incoming
+SYS_MSG,SystemMessage,Tel: touch,Forensics11,2025-11-09T11:15:07+02:00,"Dear customer, your line validity will expire today.  You can now extend your line validity with the new ""Emergency Validity"" service! Send an SMS to 1177 with ""EV5"" and get 5 extra days of validity ($1.1).",incoming
+SYS_MSG,SystemMessage,Tel: MoT,Forensics11,2025-11-08T15:38:53-02:00,عزيزي المشترك، إن جهازك Samsung Galaxy J6+ ورقم هويته IMEI هو 359992096281998 قد تم استعماله من قبل,incoming
+SYS_MSG,SystemMessage,Tel: MoT,Forensics11,2025-11-08T15:38:43-02:00,"Dear Subscriber, this Samsung Galaxy J6+ with IMEI 359992096281998 was used before",incoming
+SYS_MSG,SystemMessage,Tel: touch,Forensics11,2025-11-08T15:36:51-02:00,"عزيزي المشترك، سوف تنتهي صلاحية خطك قريباً. يمكنك الآن تمديد هذه الصلاحية مع خدمة Emergency Validity الجديدة! أرسل رسالة قصيرة SMS على 1177 تتضمن ""EV3"" واحصل على 3 ايام اضافية (0.67$).",incoming
