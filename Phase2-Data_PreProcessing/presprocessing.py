@@ -10,10 +10,20 @@ import phonenumbers
 parser = argparse.ArgumentParser(description="Clean and normalize unified forensic dataset")
 parser.add_argument("-i", "--input", required=True, help="Unified input CSV file")
 parser.add_argument("-o", "--output", required=True, help="Output CSV filename")
+parser.add_argument("-c", "--contacts", required=True, help="Excel file containing contacts")
 args = parser.parse_args()
 
 INPUT_FILE = args.input
 OUTPUT_FILE = args.output
+
+contacts_df = pd.read_excel(args.contacts, sheet_name="Contacts Contacts")
+contacts_df['Name'] = contacts_df['Name'].apply(lambda x: x.lower() if isinstance(x, str) else x)
+contacts_df['Tel'] = contacts_df['Tel'].apply(lambda x: x.replace('+','') if isinstance(x, str) else x)
+# print(contacts_df['Name'])
+# print(contacts_df['Tel'])
+print("f")
+contact_map = contacts_df.dropna(subset=["Tel"]).drop_duplicates("Tel").set_index("Tel")["Name"].to_dict()
+print(contact_map)
 
 # --- HELPER FUNCTIONS ---
 def normalize_phone(val):
@@ -31,6 +41,14 @@ def normalize_name(name):
     name = re.sub(r'[^a-z0-9+@._-]', '', name)
     if name in ["me", "you", "forensics11"]:
         return "USER_SELF"
+    if "tel" in name:
+        match = re.search(r"tel(\+?\d+)", name)
+        if match:
+            name = match.group(1)
+        name = normalize_phone(name).replace('+','')
+        ## entity resolution
+        if name in contact_map:
+            name = contact_map[name]
     return name
 
 def clean_message(msg):
@@ -65,22 +83,22 @@ def parse_time(ts):
 df['timestamp'] = df['timestamp'].apply(parse_time)
 df.dropna(subset=['timestamp'], inplace=True)
 
-# Communication type inference
-def infer_comm_type(row):
-    src = row['source'].lower()
-    if 'whatsapp' in src:
-        return 'whatsapp'
-    if 'telegram' in src:
-        return 'telegram'
-    if 'call' in src:
-        return 'call'
-    if 'sms' in src:
-        return 'sms'
-    if 'system' in src:
-        return 'system_message'
-    return 'unknown'
+# # Communication type inference
+# def infer_comm_type(row):
+#     src = row['source'].lower()
+#     if 'whatsapp' in src:
+#         return 'whatsapp'
+#     if 'telegram' in src:
+#         return 'telegram'
+#     if 'call' in src:
+#         return 'call'
+#     if 'sms' in src:
+#         return 'sms'
+#     if 'system' in src:
+#         return 'system_message'
+#     return 'unknown'
 
-df['comm_type'] = df.apply(infer_comm_type, axis=1)
+# df['comm_type'] = df.apply(infer_comm_type, axis=1)
 
 # Save cleaned output
 df.to_csv(OUTPUT_FILE, index=False)

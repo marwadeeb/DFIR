@@ -72,28 +72,28 @@ TG_Samir,Telegram,USER_SELF,samir,2025-11-13 23:00:05+00:00,That's weird,outboun
 TG_Samir,Telegram,samir,USER_SELF,2025-11-13 23:00:18+00:00,I'll send a screenshot tomorrow,inbound
 TG_Samir,Telegram,samir,USER_SELF,2025-11-13 23:11:51+00:00,Final question: which file should we publish internally?,inbound
 TG_Samir,Telegram,USER_SELF,samir,2025-11-13 23:12:23+00:00,Use v2_approved,outbound
-CALL_LOG,PhoneCall,USER_SELF,+96170012859,2025-11-13 23:09:25+00:00,Call Duration: 00:00:27,outgoing
-CALL_LOG,PhoneCall,USER_SELF,+96181924233,2025-11-13 23:08:16+00:00,Call Duration: 00:00:35,outgoing
-CALL_LOG,PhoneCall,+96171130176,USER_SELF,2025-11-13 23:07:25+00:00,Call Duration: 00:00:39,incoming
-CALL_LOG,PhoneCall,+96171277706,USER_SELF,2025-11-14 02:58:06+00:00,Call Duration: 00:00:47,incoming
-CALL_LOG,PhoneCall,USER_SELF,+96181924233,2025-11-14 02:56:25+00:00,Call Duration: 00:01:05,outgoing
-CALL_LOG,PhoneCall,USER_SELF,+96170012859,2025-11-14 02:55:31+00:00,Call Duration: 00:00:19,outgoing
-CALL_LOG,PhoneCall,USER_SELF,+96171130176,2025-11-14 02:53:23+00:00,Call Duration: 00:01:07,outgoing
-CALL_LOG,PhoneCall,+96171130176,USER_SELF,2025-11-14 01:51:34+00:00,Call Duration: 00:01:10,incoming
-CALL_LOG,PhoneCall,USER_SELF,+96170012859,2025-11-14 01:50:09+00:00,Call Duration: 00:00:26,outgoing
-CALL_LOG,PhoneCall,+96181924233,USER_SELF,2025-11-14 01:48:02+00:00,Call Duration: 00:01:05,incoming
-CALL_LOG,PhoneCall,+96181924233,USER_SELF,2025-11-14 01:46:16+00:00,Call Duration: nan,incoming
-CALL_LOG,PhoneCall,+966597942174,USER_SELF,2025-11-10 09:06:44+00:00,Call Duration: 00:00:22,incoming
-CALL_LOG,PhoneCall,+43142409870411,USER_SELF,2025-11-10 08:59:20+00:00,Call Duration: 00:00:00,incoming
-CALL_LOG,PhoneCall,USER_SELF,+96181609004,2025-11-10 08:57:56+00:00,Call Duration: 00:00:00,outgoing
-SYS_MSG,SystemMessage,USER_SELF,+96171130176,2025-11-13 23:06:32+00:00,On it,outgoing
-SYS_MSG,SystemMessage,+96171130176,USER_SELF,2025-11-13 23:06:23+00:00,Meeting at 4pm,incoming
-SYS_MSG,SystemMessage,+96181924233,USER_SELF,2025-11-14 02:53:14+00:00,"The one named rev_final2
+CALL_LOG,PhoneCall,USER_SELF,96170012859,2025-11-13 23:09:25+00:00,Call Duration: 00:00:27,outgoing
+CALL_LOG,PhoneCall,USER_SELF,samir,2025-11-13 23:08:16+00:00,Call Duration: 00:00:35,outgoing
+CALL_LOG,PhoneCall,nadia,USER_SELF,2025-11-13 23:07:25+00:00,Call Duration: 00:00:39,incoming
+CALL_LOG,PhoneCall,rania,USER_SELF,2025-11-14 02:58:06+00:00,Call Duration: 00:00:47,incoming
+CALL_LOG,PhoneCall,USER_SELF,samir,2025-11-14 02:56:25+00:00,Call Duration: 00:01:05,outgoing
+CALL_LOG,PhoneCall,USER_SELF,96170012859,2025-11-14 02:55:31+00:00,Call Duration: 00:00:19,outgoing
+CALL_LOG,PhoneCall,USER_SELF,nadia,2025-11-14 02:53:23+00:00,Call Duration: 00:01:07,outgoing
+CALL_LOG,PhoneCall,nadia,USER_SELF,2025-11-14 01:51:34+00:00,Call Duration: 00:01:10,incoming
+CALL_LOG,PhoneCall,USER_SELF,96170012859,2025-11-14 01:50:09+00:00,Call Duration: 00:00:26,outgoing
+CALL_LOG,PhoneCall,samir,USER_SELF,2025-11-14 01:48:02+00:00,Call Duration: 00:01:05,incoming
+CALL_LOG,PhoneCall,samir,USER_SELF,2025-11-14 01:46:16+00:00,Call Duration: nan,incoming
+CALL_LOG,PhoneCall,966597942174,USER_SELF,2025-11-10 09:06:44+00:00,Call Duration: 00:00:22,incoming
+CALL_LOG,PhoneCall,43142409870411,USER_SELF,2025-11-10 08:59:20+00:00,Call Duration: 00:00:00,incoming
+CALL_LOG,PhoneCall,USER_SELF,michel,2025-11-10 08:57:56+00:00,Call Duration: 00:00:00,outgoing
+SYS_MSG,SystemMessage,USER_SELF,nadia,2025-11-13 23:06:32+00:00,On it,outgoing
+SYS_MSG,SystemMessage,nadia,USER_SELF,2025-11-13 23:06:23+00:00,Meeting at 4pm,incoming
+SYS_MSG,SystemMessage,samir,USER_SELF,2025-11-14 02:53:14+00:00,"The one named rev_final2
 Make sure not to use rev2_final, old numbers",incoming
-SYS_MSG,SystemMessage,USER_SELF,+96181924233,2025-11-14 02:52:11+00:00,"Samir,
+SYS_MSG,SystemMessage,USER_SELF,samir,2025-11-14 02:52:11+00:00,"Samir,
 Which version did you edit earlier?",outgoing
-SYS_MSG,SystemMessage,+96181924233,USER_SELF,2025-11-14 01:31:10+00:00,Okay I will join,incoming
-SYS_MSG,SystemMessage,USER_SELF,+96181924233,2025-11-14 01:27:56+00:00,"Meeting rescheduled to 7pm, online",outgoing
+SYS_MSG,SystemMessage,samir,USER_SELF,2025-11-14 01:31:10+00:00,Okay I will join,incoming
+SYS_MSG,SystemMessage,USER_SELF,samir,2025-11-14 01:27:56+00:00,"Meeting rescheduled to 7pm, online",outgoing
 SYS_MSG,SystemMessage,telmicrosoft,USER_SELF,2025-11-14 01:03:11+00:00,استخدام 697550 كرمز إعادة تعيين كلمة مرور حساب Microsoft,incoming
 SYS_MSG,SystemMessage,teltouch,USER_SELF,2025-11-09 23:59:16+00:00,"Dear customer, 10 validity days were transferred to your line validity balance from mobile number 81807484. Your new line validity date is 2025-12-09.",incoming
 SYS_MSG,SystemMessage,teltouch,USER_SELF,2025-11-09 23:59:12+00:00,"Dear customer, 10 validity days were transferred to your line validity balance from mobile number 81833201. Your new line validity date is 2025-11-29.",incoming
