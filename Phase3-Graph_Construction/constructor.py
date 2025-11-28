@@ -25,8 +25,8 @@ df = pd.read_csv(INPUT_FILE)
 G = nx.DiGraph()
 
 for _, row in df.iterrows():
-    src = row['sender_resolved']
-    dst = row['receiver_resolved']
+    src = row['sender']
+    dst = row['receiver']
     timestamp = row['timestamp']
     msg = row['message']
     label = f"{timestamp}: {msg}"[:100]  # short label
