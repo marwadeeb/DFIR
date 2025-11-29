@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime
 
 # CONFIGURATION
-EXCEL_FILE = ".../../2025-11-17_11.38/2025-11-17_11.38/Excel/2025-11-17_11.38.xlsx"
+EXCEL_FILE = "..\\..\\2025-11-17_11.38\\2025-11-17_11.38\\Excel\\2025-11-17_11.38.xlsx"
 CALLS_SHEET = "Calls"
 SMS_SHEET = "Messages SMS"
 CALLS_OUTPUT = "calls_parsed_output.csv"

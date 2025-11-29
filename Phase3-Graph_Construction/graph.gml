@@ -26,43 +26,27 @@ graph [
   ]
   node [
     id 6
-    label "NAN"
-  ]
-  node [
-    id 7
     label "ramadane"
   ]
   node [
-    id 8
+    id 7
     label "alpha_updates"
   ]
   node [
-    id 9
+    id 8
     label "rania"
   ]
   node [
-    id 10
+    id 9
     label "96170012859"
   ]
   node [
-    id 11
+    id 10
     label "966597942174"
   ]
   node [
-    id 12
+    id 11
     label "43142409870411"
-  ]
-  node [
-    id 13
-    label "telmicrosoft"
-  ]
-  node [
-    id 14
-    label "teltouch"
-  ]
-  node [
-    id 15
-    label "telmot"
   ]
   edge [
     source 0
@@ -133,21 +117,14 @@ graph [
   ]
   edge [
     source 1
-    target 6
-    messages "_networkx_list_start"
-    messages "2025-11-17 13:24:00+00:00: IMG-20251117-WA0001.jpg (file attached)"
-    weight 1
-  ]
-  edge [
-    source 1
-    target 8
+    target 7
     messages "2025-11-13 21:21:02+00:00: Prototype A is stable"
     messages "2025-11-13 22:51:33+00:00: Copy"
     weight 2
   ]
   edge [
     source 1
-    target 9
+    target 8
     messages "2025-11-13 21:31:38+00:00: Yes"
     messages "2025-11-13 22:27:29+00:00: Alright"
     messages "2025-11-13 22:40:38+00:00: Agreed"
@@ -156,7 +133,7 @@ graph [
   ]
   edge [
     source 1
-    target 10
+    target 9
     messages "2025-11-13 23:09:25+00:00: Call Duration: 00:00:27"
     messages "2025-11-14 02:55:31+00:00: Call Duration: 00:00:19"
     messages "2025-11-14 01:50:09+00:00: Call Duration: 00:00:26"
@@ -203,8 +180,6 @@ graph [
     messages "2025-11-14 00:43:00+00:00: Did you put the corrected table in the shared drive? I can't see it"
     messages "2025-11-14 01:01:00+00:00: AlrightSame folder as yesterday"
     messages "2025-11-14 01:02:00+00:00: This is v4? I had only seen up to v3"
-    messages "2025-11-13 21:21:34+00:00: Running diagnostics now"
-    messages "2025-11-13 22:50:09+00:00: I'll upload the sanitized version around 8 pm"
     messages "2025-11-13 21:20:37+00:00: Thank you"
     messages "2025-11-13 22:24:48+00:00: Don't upload the older diagrams to the shared drive yet"
     messages "2025-11-13 22:48:20+00:00: Got it"
@@ -215,29 +190,32 @@ graph [
     messages "2025-11-14 01:46:16+00:00: Call Duration: nan"
     messages "2025-11-14 02:53:14+00:00: The one named rev_final2&#10;Make sure not to use rev2_final, old numbers"
     messages "2025-11-14 01:31:10+00:00: Okay I will join"
-    weight 21
+    weight 19
+  ]
+  edge [
+    source 5
+    target 7
+    messages "2025-11-13 21:21:34+00:00: Running diagnostics now"
+    messages "2025-11-13 22:50:09+00:00: I'll upload the sanitized version around 8 pm"
+    weight 2
   ]
   edge [
     source 6
-    target 1
-    messages "2025-11-14 01:09:00+00:00: IMG-20251113-WA0000.jpg (file attached)"
-    messages "2025-11-14 01:22:00+00:00: IMG-20251114-WA0000.jpg (file attached)"
-    messages "2025-11-14 04:27:00+00:00: IMG-20251114-WA0001.jpg (file attached)"
-    messages "2025-11-14 04:27:00+00:00: IMG-20251114-WA0000.jpg (file attached)"
-    weight 4
-  ]
-  edge [
-    source 7
     target 1
     messages "_networkx_list_start"
     messages "2025-11-13 14:09:00+00:00: PTT-20251112-WA0000.opus (file attached)"
     weight 1
   ]
   edge [
-    source 9
-    target 1
+    source 8
+    target 7
     messages "2025-11-13 21:26:40+00:00: Great"
     messages "2025-11-13 22:49:29+00:00: Let's finalize module C notes by tonight"
+    weight 2
+  ]
+  edge [
+    source 8
+    target 1
     messages "2025-11-13 21:30:26+00:00: Did you see the notes I added to today's summary?"
     messages "2025-11-13 21:32:06+00:00: Let's finalize by Thursday"
     messages "2025-11-13 22:26:36+00:00: Also, for the documents we discussed, try not to send it over the company"
@@ -245,43 +223,20 @@ graph [
     messages "2025-11-13 23:04:21+00:00: Let's only use the version from last night for the early briefing"
     messages "2025-11-13 23:05:03+00:00: No"
     messages "2025-11-14 02:58:06+00:00: Call Duration: 00:00:47"
-    weight 9
+    weight 7
   ]
   edge [
-    source 11
+    source 10
     target 1
     messages "_networkx_list_start"
     messages "2025-11-10 09:06:44+00:00: Call Duration: 00:00:22"
     weight 1
   ]
   edge [
-    source 12
+    source 11
     target 1
     messages "_networkx_list_start"
     messages "2025-11-10 08:59:20+00:00: Call Duration: 00:00:00"
     weight 1
-  ]
-  edge [
-    source 13
-    target 1
-    messages "_networkx_list_start"
-    messages "2025-11-14 01:03:11+00:00: &#1575;&#1587;&#1578;&#1582;&#1583;&#1575;&#1605; 697550 &#1603;&#1585;&#1605;&#1586; &#1573;&#1593;&#1575;&#1583;&#1577; &#1578;&#1593;&#1610;&#1610;&#1606; &#1603;&#1604;&#1605;&#1577; &#1605;&#1585;&#1608;&#1585; &#1581;&#1587;&#1575;&#1576; Microsoft"
-    weight 1
-  ]
-  edge [
-    source 14
-    target 1
-    messages "2025-11-09 23:59:16+00:00: Dear customer, 10 validity days were transferred to your line validity ba"
-    messages "2025-11-09 23:59:12+00:00: Dear customer, 10 validity days were transferred to your line validity ba"
-    messages "2025-11-09 09:15:07+00:00: Dear customer, your line validity will expire today.  You can now extend "
-    messages "2025-11-08 17:36:51+00:00: &#1593;&#1586;&#1610;&#1586;&#1610; &#1575;&#1604;&#1605;&#1588;&#1578;&#1585;&#1603;&#1548; &#1587;&#1608;&#1601; &#1578;&#1606;&#1578;&#1607;&#1610; &#1589;&#1604;&#1575;&#1581;&#1610;&#1577; &#1582;&#1591;&#1603; &#1602;&#1585;&#1610;&#1576;&#1575;&#1611;. &#1610;&#1605;&#1603;&#1606;&#1603; &#1575;&#1604;&#1570;&#1606; &#1578;&#1605;&#1583;&#1610;&#1583; &#1607;&#1584;&#1607; &#1575;&#1604;&#1589;&#1604;&#1575;&#1581;&#1610;&#1577;"
-    weight 4
-  ]
-  edge [
-    source 15
-    target 1
-    messages "2025-11-08 17:38:53+00:00: &#1593;&#1586;&#1610;&#1586;&#1610; &#1575;&#1604;&#1605;&#1588;&#1578;&#1585;&#1603;&#1548; &#1573;&#1606; &#1580;&#1607;&#1575;&#1586;&#1603; Samsung Galaxy J6+ &#1608;&#1585;&#1602;&#1605; &#1607;&#1608;&#1610;&#1578;&#1607; IMEI &#1607;&#1608; 35999209628"
-    messages "2025-11-08 17:38:43+00:00: Dear Subscriber, this Samsung Galaxy J6+ with IMEI 359992096281998 was us"
-    weight 2
   ]
 ]

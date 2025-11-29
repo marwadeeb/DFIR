@@ -1,0 +1,110 @@
+chat_id,source,sender,receiver,timestamp,message,direction
+WA_Jad_012330,WhatsApp,,Forensics11,2025-11-14T01:13:00,"13/11/2025, 22:34 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.",inbound
+WA_Jad_012330,WhatsApp,Jad,Forensics11,2025-11-14T01:14:00,BroMovie night this weekend?,inbound
+WA_Jad_012330,WhatsApp,Forensics11,Jad,2025-11-14T01:14:00,Yes!Finally some free time,outbound
+WA_Layla_012412,WhatsApp,,Forensics11,2025-11-14T00:36:00,"14/11/2025, 00:36 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.",inbound
+WA_Layla_012412,WhatsApp,Layla,Forensics11,2025-11-14T00:38:00,Are you coming for lunch tomorrow?Your sister will be there,inbound
+WA_Layla_012412,WhatsApp,Forensics11,Layla,2025-11-14T00:38:00,I'll try mamaDepends on meetings,outbound
+WA_Michel_012314,WhatsApp,,Forensics11,2025-11-10T11:12:00,"10/11/2025, 11:08 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.",inbound
+WA_Michel_012314,WhatsApp,Forensics11,Michel,2025-11-11T21:36:00,.,outbound
+WA_Michel_012314,WhatsApp,Forensics11,Michel,2025-11-11T21:36:00,.,outbound
+WA_Michel_012314,WhatsApp,Forensics11,Michel,2025-11-14T01:15:00,.,outbound
+WA_Michel_012314,WhatsApp,Forensics11,Michel,2025-11-14T01:16:00,.,outbound
+WA_Michel_012314,WhatsApp,Michel,Forensics11,2025-11-14T01:16:00,Don't forget the USB from your drawer tomorrow,inbound
+WA_Michel_012314,WhatsApp,Forensics11,Michel,2025-11-14T01:16:00,Sure dad,outbound
+WA_Nadia_012359,WhatsApp,,Forensics11,2025-11-13T22:40:00,"13/11/2025, 22:31 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.",inbound
+WA_Nadia_012359,WhatsApp,Nadia,Forensics11,2025-11-13T22:40:00,Morning Alex,inbound
+WA_Nadia_012359,WhatsApp,Nadia,Forensics11,2025-11-13T22:41:00,Did you finalize the updates for project Alpha?,inbound
+WA_Nadia_012359,WhatsApp,Forensics11,Nadia,2025-11-13T22:42:00,Morning!,outbound
+WA_Nadia_012359,WhatsApp,Forensics11,Nadia,2025-11-13T22:42:00,"Yes, almost done",outbound
+WA_Nadia_012359,WhatsApp,Forensics11,Nadia,2025-11-13T22:43:00,Sending the updated specs after my meeting,outbound
+WA_Nadia_012359,WhatsApp,Nadia,Forensics11,2025-11-13T22:43:00,Perfect,inbound
+WA_Nadia_012359,WhatsApp,Nadia,Forensics11,2025-11-13T23:55:00,Share the pdf when ready,inbound
+WA_Nadia_012359,WhatsApp,Nadia,Forensics11,2025-11-13T23:55:00,"Just saw the pdf, thanks",inbound
+WA_Nadia_012359,WhatsApp,Nadia,Forensics11,2025-11-13T23:56:00,Can you send the raw numbers too?,inbound
+WA_Nadia_012359,WhatsApp,Forensics11,Nadia,2025-11-14T01:01:00,I'll wrap them into one excel and share shortly,outbound
+WA_Nadia_012359,WhatsApp,Nadia,Forensics11,2025-11-14T01:01:00,Morning!Are the results ready?,inbound
+WA_Nadia_012359,WhatsApp,Forensics11,Nadia,2025-11-14T01:01:00,Working on last adjustments,outbound
+WA_Samir_012344,WhatsApp,,Forensics11,2025-11-13T22:44:00,"13/11/2025, 22:32 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.",inbound
+WA_Samir_012344,WhatsApp,Forensics11,Samir,2025-11-13T22:44:00,Hi Samir,outbound
+WA_Samir_012344,WhatsApp,Forensics11,Samir,2025-11-13T22:45:00,I uploaded alpha_specs_v2.pdf on the shared drive,outbound
+WA_Samir_012344,WhatsApp,Samir,Forensics11,2025-11-13T22:45:00,got it,inbound
+WA_Samir_012344,WhatsApp,Samir,Forensics11,2025-11-13T22:46:00,I will check compatibilty issues today,inbound
+WA_Samir_012344,WhatsApp,Forensics11,Samir,2025-11-13T22:46:00,Check section 4.2,outbound
+WA_Samir_012344,WhatsApp,Forensics11,Samir,2025-11-13T22:51:00,Found some inconsistencies,outbound
+WA_Samir_012344,WhatsApp,Samir,Forensics11,2025-11-13T22:53:00,Can you send it via telegram?,inbound
+WA_Samir_012344,WhatsApp,Forensics11,Samir,2025-11-13T23:21:00,Yes sure just a sec,outbound
+WA_Samir_012344,WhatsApp,Samir,Forensics11,2025-11-14T00:31:00,Great! Call you later,inbound
+WA_Samir_012344,WhatsApp,Samir,Forensics11,2025-11-14T00:31:00,"By the way, the file you sent earlier shows v2.1 in the headerMine says v2. Did you rename it?",inbound
+WA_Samir_012344,WhatsApp,Forensics11,Samir,2025-11-14T00:32:00,NoI sent exactly what I exportedMaybe the telegram compression changed something?,outbound
+WA_Samir_012344,WhatsApp,Samir,Forensics11,2025-11-14T00:41:00,PossiblyLet's re-align tomorrow Too many versions floating around,inbound
+WA_Samir_012344,WhatsApp,Samir,Forensics11,2025-11-14T00:43:00,Did you put the corrected table in the shared drive? I can't see it,inbound
+WA_Samir_012344,WhatsApp,Forensics11,Samir,2025-11-14T00:43:00,No network is slowI'll send it directly via telegram,outbound
+WA_Samir_012344,WhatsApp,Samir,Forensics11,2025-11-14T01:01:00,AlrightSame folder as yesterday,inbound
+WA_Samir_012344,WhatsApp,Forensics11,Samir,2025-11-14T01:02:00,I've uploaded stability_report.pdf now,outbound
+WA_Samir_012344,WhatsApp,Samir,Forensics11,2025-11-14T01:02:00,This is v4? I had only seen up to v3,inbound
+WA_Samir_012344,WhatsApp,Forensics11,Samir,2025-11-14T01:02:00,"V4 has minor formatting fixes, nothing bug",outbound
+WA_زوجتي_حياتي_012252,WhatsApp,,Forensics11,2025-11-13T02:31:00,"13/11/2025, 02:31 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.",inbound
+WA_زوجتي_حياتي_012252,WhatsApp,زوجتي حياتي,Forensics11,2025-11-14T01:09:00,IMG-20251113-WA0000.jpg (file attached),inbound
+WA_زوجتي_حياتي_012252,WhatsApp,زوجتي حياتي,Forensics11,2025-11-14T01:22:00,IMG-20251114-WA0000.jpg (file attached),inbound
+WA_زوجتي_حياتي_012252,WhatsApp,زوجتي حياتي,Forensics11,2025-11-14T04:27:00,IMG-20251114-WA0001.jpg (file attached),inbound
+WA_زوجتي_حياتي_012252,WhatsApp,زوجتي حياتي,Forensics11,2025-11-14T04:27:00,IMG-20251114-WA0000.jpg (file attached),inbound
+WA_محمود_رمضان_Ramadane_012453,WhatsApp,,Forensics11,2025-11-12T17:21:00,"11/11/2025, 10:51 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.",inbound
+WA_محمود_رمضان_Ramadane_012453,WhatsApp,محمود رمضان Ramadane,Forensics11,2025-11-13T14:09:00,PTT-20251112-WA0000.opus (file attached),inbound
+WA_محمود_رمضان_Ramadane_012453,WhatsApp,Forensics11,محمود,2025-11-17T13:24:00,IMG-20251117-WA0001.jpg (file attached),outbound
+TG_Alpha_Updates,Telegram,Forensics11,Alpha_Updates,2025-11-13T21:21:02+00:00,Prototype A is stable,outbound
+TG_Alpha_Updates,Telegram,Samir,Forensics11,2025-11-13T21:21:34+00:00,Running diagnostics now,inbound
+TG_Alpha_Updates,Telegram,Rania,Forensics11,2025-11-13T21:26:40+00:00,Great,inbound
+TG_Alpha_Updates,Telegram,Rania,Forensics11,2025-11-13T22:49:29+00:00,Let's finalize module C notes by tonight,inbound
+TG_Alpha_Updates,Telegram,Samir,Forensics11,2025-11-13T22:50:09+00:00,I'll upload the sanitized version around 8 pm,inbound
+TG_Alpha_Updates,Telegram,Forensics11,Alpha_Updates,2025-11-13T22:51:33+00:00,Copy,outbound
+TG_Rania,Telegram,Rania,Forensics11,2025-11-13T21:30:26+00:00,Did you see the notes I added to today's summary?,inbound
+TG_Rania,Telegram,Forensics11,Rania,2025-11-13T21:31:38+00:00,Yes,outbound
+TG_Rania,Telegram,Rania,Forensics11,2025-11-13T21:32:06+00:00,Let's finalize by Thursday,inbound
+TG_Rania,Telegram,Rania,Forensics11,2025-11-13T22:26:36+00:00,"Also, for the documents we discussed, try not to send it over the company channel",inbound
+TG_Rania,Telegram,Forensics11,Rania,2025-11-13T22:27:29+00:00,Alright,outbound
+TG_Rania,Telegram,Rania,Forensics11,2025-11-13T22:40:18+00:00,"Before we share the weekly update, let's keep the preliminary results internal",inbound
+TG_Rania,Telegram,Forensics11,Rania,2025-11-13T22:40:38+00:00,Agreed,outbound
+TG_Rania,Telegram,Rania,Forensics11,2025-11-13T23:04:21+00:00,Let's only use the version from last night for the early briefing,inbound
+TG_Rania,Telegram,Forensics11,Rania,2025-11-13T23:04:37+00:00,Got it,outbound
+TG_Rania,Telegram,Rania,Forensics11,2025-11-13T23:05:03+00:00,No,inbound
+TG_Samir,Telegram,Forensics11,Samir,2025-11-13T21:07:36+00:00,Here you go,outbound
+TG_Samir,Telegram,Samir,Forensics11,2025-11-13T21:20:37+00:00,Thank you,inbound
+TG_Samir,Telegram,Samir,Forensics11,2025-11-13T22:24:48+00:00,Don't upload the older diagrams to the shared drive yet,inbound
+TG_Samir,Telegram,Forensics11,Samir,2025-11-13T22:25:26+00:00,Okay...,outbound
+TG_Samir,Telegram,Samir,Forensics11,2025-11-13T22:48:20+00:00,Got it,inbound
+TG_Samir,Telegram,Forensics11,Samir,2025-11-13T22:48:40+00:00,No idea why it shows that,outbound
+TG_Samir,Telegram,Samir,Forensics11,2025-11-13T22:59:42+00:00,Can you double check your spreadsheet? It shows entries duplicated,inbound
+TG_Samir,Telegram,Forensics11,Samir,2025-11-13T23:00:05+00:00,That's weird,outbound
+TG_Samir,Telegram,Samir,Forensics11,2025-11-13T23:00:18+00:00,I'll send a screenshot tomorrow,inbound
+TG_Samir,Telegram,Samir,Forensics11,2025-11-13T23:11:51+00:00,Final question: which file should we publish internally?,inbound
+TG_Samir,Telegram,Forensics11,Samir,2025-11-13T23:12:23+00:00,Use v2_approved,outbound
+CALL_LOG,PhoneCall,Forensics11,Tel: 70012859,2025-11-14T01:09:25+02:00,Call Duration: 00:00:27,outgoing
+CALL_LOG,PhoneCall,Forensics11,Name: Samir;Tel: 81924233;Name (Matched): Samir,2025-11-14T01:08:16+02:00,Call Duration: 00:00:35,outgoing
+CALL_LOG,PhoneCall,Name: Nadia;Tel: 71130176;Name (Matched): Nadia,Forensics11,2025-11-14T01:07:25+02:00,Call Duration: 00:00:39,incoming
+CALL_LOG,PhoneCall,Name: Rania;Tel: 71277706;Name (Matched): Rania,Forensics11,2025-11-14T00:58:06-02:00,Call Duration: 00:00:47,incoming
+CALL_LOG,PhoneCall,Forensics11,Name: Samir;Tel: 81924233;Name (Matched): Samir,2025-11-14T00:56:25-02:00,Call Duration: 00:01:05,outgoing
+CALL_LOG,PhoneCall,Forensics11,Tel: 70012859,2025-11-14T00:55:31-02:00,Call Duration: 00:00:19,outgoing
+CALL_LOG,PhoneCall,Forensics11,Name: Nadia;Tel: 71130176;Name (Matched): Nadia,2025-11-14T00:53:23-02:00,Call Duration: 00:01:07,outgoing
+CALL_LOG,PhoneCall,Name: Nadia;Tel: 71130176;Name (Matched): Nadia,Forensics11,2025-11-13T23:51:34-02:00,Call Duration: 00:01:10,incoming
+CALL_LOG,PhoneCall,Forensics11,Tel: 70012859,2025-11-13T23:50:09-02:00,Call Duration: 00:00:26,outgoing
+CALL_LOG,PhoneCall,Name: Samir;Tel: 81924233;Name (Matched): Samir,Forensics11,2025-11-13T23:48:02-02:00,Call Duration: 00:01:05,incoming
+CALL_LOG,PhoneCall,Name: Samir;Tel: 81924233;Name (Matched): Samir,Forensics11,2025-11-13T23:46:16-02:00,Call Duration: nan,incoming
+CALL_LOG,PhoneCall,Tel: 00966597942174,Forensics11,2025-11-10T11:06:44+02:00,Call Duration: 00:00:22,incoming
+CALL_LOG,PhoneCall,Tel: 0043142409870411,Forensics11,2025-11-10T10:59:20+02:00,Call Duration: 00:00:00,incoming
+CALL_LOG,PhoneCall,Forensics11,Name: Michel;Tel: 81609004;Name (Matched): Michel,2025-11-10T10:57:56+02:00,Call Duration: 00:00:00,outgoing
+SYS_MSG,SystemMessage,Forensics11,Tel: +96171130176;Name (Matched): Nadia,2025-11-14T01:06:32+02:00,On it,outgoing
+SYS_MSG,SystemMessage,Tel: +96171130176;Name (Matched): Nadia,Forensics11,2025-11-14T01:06:23+02:00,Meeting at 4pm,incoming
+SYS_MSG,SystemMessage,Tel: +96181924233;Name (Matched): Samir,Forensics11,2025-11-14T00:53:14-02:00,"The one named rev_final2
+Make sure not to use rev2_final, old numbers",incoming
+SYS_MSG,SystemMessage,Forensics11,Tel: +96181924233;Name (Matched): Samir,2025-11-14T00:52:11-02:00,"Samir,
+Which version did you edit earlier?",outgoing
+SYS_MSG,SystemMessage,Tel: +96181924233;Name (Matched): Samir,Forensics11,2025-11-13T23:31:10-02:00,Okay I will join,incoming
+SYS_MSG,SystemMessage,Forensics11,Tel: +96181924233;Name (Matched): Samir,2025-11-13T23:27:56-02:00,"Meeting rescheduled to 7pm, online",outgoing
+SYS_MSG,SystemMessage,Tel: Microsoft,Forensics11,2025-11-13T23:03:11-02:00,استخدام 697550 كرمز إعادة تعيين كلمة مرور حساب Microsoft,incoming
+SYS_MSG,SystemMessage,Tel: touch,Forensics11,2025-11-09T21:59:16-02:00,"Dear customer, 10 validity days were transferred to your line validity balance from mobile number 81807484. Your new line validity date is 2025-12-09.",incoming
+SYS_MSG,SystemMessage,Tel: touch,Forensics11,2025-11-09T21:59:12-02:00,"Dear customer, 10 validity days were transferred to your line validity balance from mobile number 81833201. Your new line validity date is 2025-11-29.",incoming
+SYS_MSG,SystemMessage,Tel: touch,Forensics11,2025-11-09T11:15:07+02:00,"Dear customer, your line validity will expire today.  You can now extend your line validity with the new ""Emergency Validity"" service! Send an SMS to 1177 with ""EV5"" and get 5 extra days of validity ($1.1).",incoming
+SYS_MSG,SystemMessage,Tel: MoT,Forensics11,2025-11-08T15:38:53-02:00,عزيزي المشترك، إن جهازك Samsung Galaxy J6+ ورقم هويته IMEI هو 359992096281998 قد تم استعماله من قبل,incoming
+SYS_MSG,SystemMessage,Tel: MoT,Forensics11,2025-11-08T15:38:43-02:00,"Dear Subscriber, this Samsung Galaxy J6+ with IMEI 359992096281998 was used before",incoming
+SYS_MSG,SystemMessage,Tel: touch,Forensics11,2025-11-08T15:36:51-02:00,"عزيزي المشترك، سوف تنتهي صلاحية خطك قريباً. يمكنك الآن تمديد هذه الصلاحية مع خدمة Emergency Validity الجديدة! أرسل رسالة قصيرة SMS على 1177 تتضمن ""EV3"" واحصل على 3 ايام اضافية (0.67$).",incoming

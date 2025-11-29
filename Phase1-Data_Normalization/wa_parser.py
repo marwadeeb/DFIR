@@ -4,7 +4,7 @@ import csv
 from datetime import datetime
 
 # CONFIGURATION
-DATA_ROOT = "../../wa 81663932"  # Root WhatsApp extraction directory
+DATA_ROOT = "..\\..\\wa 81663932"  # Root WhatsApp extraction directory
 OUTPUT_FILE = "whatsapp_parsed_output.csv"
 USER_NAME = "Forensics11"  # The forensic user's name
 
@@ -39,7 +39,7 @@ for chat_dir in os.listdir(DATA_ROOT):
                     # print(current_message)
                     timestamp = datetime.strptime((line.split(" - ", 1)[0]), "%d/%m/%Y, %H:%M")
                     direction = "outbound" if current_sender == USER_NAME else "inbound"
-                    receiver = current_sender if direction == "inbound" else chat_id.split("_")[1]
+                    receiver = USER_NAME if direction == "inbound" else chat_id.split("_")[1]
                     rows.append([
                         chat_id, "WhatsApp", current_sender, receiver,
                         timestamp.isoformat(), current_message.strip(), direction
@@ -47,6 +47,7 @@ for chat_dir in os.listdir(DATA_ROOT):
 
                 # new message
                 current_date, current_time, current_sender, current_message = match.groups()
+                print(current_sender)
             else:
                 # continuation of the previous message
                 current_message += line
@@ -55,7 +56,7 @@ for chat_dir in os.listdir(DATA_ROOT):
         if current_message:
             timestamp = datetime.strptime(f"{current_date} {current_time}", "%d/%m/%Y %H:%M")
             direction = "outbound" if current_sender == USER_NAME else "inbound"
-            receiver = current_sender if direction == "inbound" else chat_id.split("_")[1]
+            receiver = USER_NAME if direction == "inbound" else chat_id.split("_")[1]
             rows.append([
                 chat_id, "WhatsApp", current_sender, receiver,
                 timestamp.isoformat(), current_message.strip(), direction

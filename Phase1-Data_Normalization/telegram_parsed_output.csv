@@ -1,9 +1,9 @@
 chat_id,source,sender,receiver,timestamp,message,direction
 TG_Alpha_Updates,Telegram,Forensics11,Alpha_Updates,2025-11-13T21:21:02+00:00,Prototype A is stable,outbound
-TG_Alpha_Updates,Telegram,Samir,Forensics11,2025-11-13T21:21:34+00:00,Running diagnostics now,inbound
-TG_Alpha_Updates,Telegram,Rania,Forensics11,2025-11-13T21:26:40+00:00,Great,inbound
-TG_Alpha_Updates,Telegram,Rania,Forensics11,2025-11-13T22:49:29+00:00,Let's finalize module C notes by tonight,inbound
-TG_Alpha_Updates,Telegram,Samir,Forensics11,2025-11-13T22:50:09+00:00,I'll upload the sanitized version around 8 pm,inbound
+TG_Alpha_Updates,Telegram,Samir,Alpha_Updates,2025-11-13T21:21:34+00:00,Running diagnostics now,inbound
+TG_Alpha_Updates,Telegram,Rania,Alpha_Updates,2025-11-13T21:26:40+00:00,Great,inbound
+TG_Alpha_Updates,Telegram,Rania,Alpha_Updates,2025-11-13T22:49:29+00:00,Let's finalize module C notes by tonight,inbound
+TG_Alpha_Updates,Telegram,Samir,Alpha_Updates,2025-11-13T22:50:09+00:00,I'll upload the sanitized version around 8 pm,inbound
 TG_Alpha_Updates,Telegram,Forensics11,Alpha_Updates,2025-11-13T22:51:33+00:00,Copy,outbound
 TG_Rania,Telegram,Rania,Forensics11,2025-11-13T21:30:26+00:00,Did you see the notes I added to today's summary?,inbound
 TG_Rania,Telegram,Forensics11,Rania,2025-11-13T21:31:38+00:00,Yes,outbound

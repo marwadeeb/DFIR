@@ -20,6 +20,8 @@ OUTPUT_GML = args.output_gml
 
 # --- LOAD DATA ---
 df = pd.read_csv(INPUT_FILE)
+df = df.dropna(subset=['sender', 'receiver'])
+irrelative = ["telmicrosoft", "telmot", "teltouch"]
 
 # --- BUILD GRAPH ---
 G = nx.DiGraph()
@@ -31,16 +33,19 @@ for _, row in df.iterrows():
     msg = row['message']
     label = f"{timestamp}: {msg}"[:100]  # short label
 
-    if not G.has_node(src):
-        G.add_node(src)
-    if not G.has_node(dst):
-        G.add_node(dst)
+    if (src not in irrelative):
+        print(src)
+        print(dst)
+        if not G.has_node(src):
+            G.add_node(src)
+        if not G.has_node(dst):
+            G.add_node(dst)
 
-    if G.has_edge(src, dst):
-        G[src][dst]['messages'].append(label)
-        G[src][dst]['weight'] += 1
-    else:
-        G.add_edge(src, dst, messages=[label], weight=1)
+        if G.has_edge(src, dst):
+            G[src][dst]['messages'].append(label)
+            G[src][dst]['weight'] += 1
+        else:
+            G.add_edge(src, dst, messages=[label], weight=1)
 
 # --- SAVE GRAPH ---
 nx.write_gml(G, OUTPUT_GML)

@@ -13,10 +13,10 @@ args = parser.parse_args()
 OUTPUT_FILE = f"{args.output}"
 
 # CONFIGURATION
-CALLS_FILE = "calls_parsed_output.csv"            # Path to parsed calls CSV
-MESSAGES_FILE = "messages_parsed_output.csv"      # Path to parsed SMS messages CSV
-WHATSAPP_FILE = "whatsapp_parsed_output.csv"  # Parsed WhatsApp
-TELEGRAM_FILE = "telegram_parsed_output.csv"  # Parsed Telegram
+CALLS_FILE = ".\\calls_parsed_output.csv"          # Path to parsed calls CSV
+MESSAGES_FILE = ".\\messages_parsed_output.csv"      # Path to parsed SMS messages CSV
+WHATSAPP_FILE = ".\\whatsapp_parsed_output.csv"  # Parsed WhatsApp
+TELEGRAM_FILE = ".\\telegram_parsed_output.csv"  # Parsed Telegram
 USER_NAME = "Forensics11"
 
 unified_rows = []
@@ -31,7 +31,7 @@ def append_from_file(filepath, source_label):
         unified_rows.append([
             row.get("chat_id", source_label),
             row.get("source", source_label),
-            row.get("sender", USER_NAME),
+            row.get("sender", ""),
             row.get("receiver", ""),
             row.get("timestamp", ""),
             row.get("message", "").strip(),
