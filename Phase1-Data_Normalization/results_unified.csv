@@ -1,62 +1,62 @@
 chat_id,source,sender,receiver,timestamp,message,direction
-WA_Jad_012330,WhatsApp,,,2025-11-14T01:13:00,"13/11/2025, 22:34 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.",inbound
-WA_Jad_012330,WhatsApp,Jad,Jad,2025-11-14T01:14:00,BroMovie night this weekend?,inbound
+WA_Jad_012330,WhatsApp,,Forensics11,2025-11-14T01:13:00,"13/11/2025, 22:34 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.",inbound
+WA_Jad_012330,WhatsApp,Jad,Forensics11,2025-11-14T01:14:00,BroMovie night this weekend?,inbound
 WA_Jad_012330,WhatsApp,Forensics11,Jad,2025-11-14T01:14:00,Yes!Finally some free time,outbound
-WA_Layla_012412,WhatsApp,,,2025-11-14T00:36:00,"14/11/2025, 00:36 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.",inbound
-WA_Layla_012412,WhatsApp,Layla,Layla,2025-11-14T00:38:00,Are you coming for lunch tomorrow?Your sister will be there,inbound
+WA_Layla_012412,WhatsApp,,Forensics11,2025-11-14T00:36:00,"14/11/2025, 00:36 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.",inbound
+WA_Layla_012412,WhatsApp,Layla,Forensics11,2025-11-14T00:38:00,Are you coming for lunch tomorrow?Your sister will be there,inbound
 WA_Layla_012412,WhatsApp,Forensics11,Layla,2025-11-14T00:38:00,I'll try mamaDepends on meetings,outbound
-WA_Michel_012314,WhatsApp,,,2025-11-10T11:12:00,"10/11/2025, 11:08 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.",inbound
+WA_Michel_012314,WhatsApp,,Forensics11,2025-11-10T11:12:00,"10/11/2025, 11:08 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.",inbound
 WA_Michel_012314,WhatsApp,Forensics11,Michel,2025-11-11T21:36:00,.,outbound
 WA_Michel_012314,WhatsApp,Forensics11,Michel,2025-11-11T21:36:00,.,outbound
 WA_Michel_012314,WhatsApp,Forensics11,Michel,2025-11-14T01:15:00,.,outbound
 WA_Michel_012314,WhatsApp,Forensics11,Michel,2025-11-14T01:16:00,.,outbound
-WA_Michel_012314,WhatsApp,Michel,Michel,2025-11-14T01:16:00,Don't forget the USB from your drawer tomorrow,inbound
+WA_Michel_012314,WhatsApp,Michel,Forensics11,2025-11-14T01:16:00,Don't forget the USB from your drawer tomorrow,inbound
 WA_Michel_012314,WhatsApp,Forensics11,Michel,2025-11-14T01:16:00,Sure dad,outbound
-WA_Nadia_012359,WhatsApp,,,2025-11-13T22:40:00,"13/11/2025, 22:31 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.",inbound
-WA_Nadia_012359,WhatsApp,Nadia,Nadia,2025-11-13T22:40:00,Morning Alex,inbound
-WA_Nadia_012359,WhatsApp,Nadia,Nadia,2025-11-13T22:41:00,Did you finalize the updates for project Alpha?,inbound
+WA_Nadia_012359,WhatsApp,,Forensics11,2025-11-13T22:40:00,"13/11/2025, 22:31 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.",inbound
+WA_Nadia_012359,WhatsApp,Nadia,Forensics11,2025-11-13T22:40:00,Morning Alex,inbound
+WA_Nadia_012359,WhatsApp,Nadia,Forensics11,2025-11-13T22:41:00,Did you finalize the updates for project Alpha?,inbound
 WA_Nadia_012359,WhatsApp,Forensics11,Nadia,2025-11-13T22:42:00,Morning!,outbound
 WA_Nadia_012359,WhatsApp,Forensics11,Nadia,2025-11-13T22:42:00,"Yes, almost done",outbound
 WA_Nadia_012359,WhatsApp,Forensics11,Nadia,2025-11-13T22:43:00,Sending the updated specs after my meeting,outbound
-WA_Nadia_012359,WhatsApp,Nadia,Nadia,2025-11-13T22:43:00,Perfect,inbound
-WA_Nadia_012359,WhatsApp,Nadia,Nadia,2025-11-13T23:55:00,Share the pdf when ready,inbound
-WA_Nadia_012359,WhatsApp,Nadia,Nadia,2025-11-13T23:55:00,"Just saw the pdf, thanks",inbound
-WA_Nadia_012359,WhatsApp,Nadia,Nadia,2025-11-13T23:56:00,Can you send the raw numbers too?,inbound
+WA_Nadia_012359,WhatsApp,Nadia,Forensics11,2025-11-13T22:43:00,Perfect,inbound
+WA_Nadia_012359,WhatsApp,Nadia,Forensics11,2025-11-13T23:55:00,Share the pdf when ready,inbound
+WA_Nadia_012359,WhatsApp,Nadia,Forensics11,2025-11-13T23:55:00,"Just saw the pdf, thanks",inbound
+WA_Nadia_012359,WhatsApp,Nadia,Forensics11,2025-11-13T23:56:00,Can you send the raw numbers too?,inbound
 WA_Nadia_012359,WhatsApp,Forensics11,Nadia,2025-11-14T01:01:00,I'll wrap them into one excel and share shortly,outbound
-WA_Nadia_012359,WhatsApp,Nadia,Nadia,2025-11-14T01:01:00,Morning!Are the results ready?,inbound
+WA_Nadia_012359,WhatsApp,Nadia,Forensics11,2025-11-14T01:01:00,Morning!Are the results ready?,inbound
 WA_Nadia_012359,WhatsApp,Forensics11,Nadia,2025-11-14T01:01:00,Working on last adjustments,outbound
-WA_Samir_012344,WhatsApp,,,2025-11-13T22:44:00,"13/11/2025, 22:32 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.",inbound
+WA_Samir_012344,WhatsApp,,Forensics11,2025-11-13T22:44:00,"13/11/2025, 22:32 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.",inbound
 WA_Samir_012344,WhatsApp,Forensics11,Samir,2025-11-13T22:44:00,Hi Samir,outbound
 WA_Samir_012344,WhatsApp,Forensics11,Samir,2025-11-13T22:45:00,I uploaded alpha_specs_v2.pdf on the shared drive,outbound
-WA_Samir_012344,WhatsApp,Samir,Samir,2025-11-13T22:45:00,got it,inbound
-WA_Samir_012344,WhatsApp,Samir,Samir,2025-11-13T22:46:00,I will check compatibilty issues today,inbound
+WA_Samir_012344,WhatsApp,Samir,Forensics11,2025-11-13T22:45:00,got it,inbound
+WA_Samir_012344,WhatsApp,Samir,Forensics11,2025-11-13T22:46:00,I will check compatibilty issues today,inbound
 WA_Samir_012344,WhatsApp,Forensics11,Samir,2025-11-13T22:46:00,Check section 4.2,outbound
 WA_Samir_012344,WhatsApp,Forensics11,Samir,2025-11-13T22:51:00,Found some inconsistencies,outbound
-WA_Samir_012344,WhatsApp,Samir,Samir,2025-11-13T22:53:00,Can you send it via telegram?,inbound
+WA_Samir_012344,WhatsApp,Samir,Forensics11,2025-11-13T22:53:00,Can you send it via telegram?,inbound
 WA_Samir_012344,WhatsApp,Forensics11,Samir,2025-11-13T23:21:00,Yes sure just a sec,outbound
-WA_Samir_012344,WhatsApp,Samir,Samir,2025-11-14T00:31:00,Great! Call you later,inbound
-WA_Samir_012344,WhatsApp,Samir,Samir,2025-11-14T00:31:00,"By the way, the file you sent earlier shows v2.1 in the headerMine says v2. Did you rename it?",inbound
+WA_Samir_012344,WhatsApp,Samir,Forensics11,2025-11-14T00:31:00,Great! Call you later,inbound
+WA_Samir_012344,WhatsApp,Samir,Forensics11,2025-11-14T00:31:00,"By the way, the file you sent earlier shows v2.1 in the headerMine says v2. Did you rename it?",inbound
 WA_Samir_012344,WhatsApp,Forensics11,Samir,2025-11-14T00:32:00,NoI sent exactly what I exportedMaybe the telegram compression changed something?,outbound
-WA_Samir_012344,WhatsApp,Samir,Samir,2025-11-14T00:41:00,PossiblyLet's re-align tomorrow Too many versions floating around,inbound
-WA_Samir_012344,WhatsApp,Samir,Samir,2025-11-14T00:43:00,Did you put the corrected table in the shared drive? I can't see it,inbound
+WA_Samir_012344,WhatsApp,Samir,Forensics11,2025-11-14T00:41:00,PossiblyLet's re-align tomorrow Too many versions floating around,inbound
+WA_Samir_012344,WhatsApp,Samir,Forensics11,2025-11-14T00:43:00,Did you put the corrected table in the shared drive? I can't see it,inbound
 WA_Samir_012344,WhatsApp,Forensics11,Samir,2025-11-14T00:43:00,No network is slowI'll send it directly via telegram,outbound
-WA_Samir_012344,WhatsApp,Samir,Samir,2025-11-14T01:01:00,AlrightSame folder as yesterday,inbound
+WA_Samir_012344,WhatsApp,Samir,Forensics11,2025-11-14T01:01:00,AlrightSame folder as yesterday,inbound
 WA_Samir_012344,WhatsApp,Forensics11,Samir,2025-11-14T01:02:00,I've uploaded stability_report.pdf now,outbound
-WA_Samir_012344,WhatsApp,Samir,Samir,2025-11-14T01:02:00,This is v4? I had only seen up to v3,inbound
+WA_Samir_012344,WhatsApp,Samir,Forensics11,2025-11-14T01:02:00,This is v4? I had only seen up to v3,inbound
 WA_Samir_012344,WhatsApp,Forensics11,Samir,2025-11-14T01:02:00,"V4 has minor formatting fixes, nothing bug",outbound
-WA_زوجتي_حياتي_012252,WhatsApp,,,2025-11-13T02:31:00,"13/11/2025, 02:31 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.",inbound
-WA_زوجتي_حياتي_012252,WhatsApp,زوجتي حياتي,زوجتي حياتي,2025-11-14T01:09:00,IMG-20251113-WA0000.jpg (file attached),inbound
-WA_زوجتي_حياتي_012252,WhatsApp,زوجتي حياتي,زوجتي حياتي,2025-11-14T01:22:00,IMG-20251114-WA0000.jpg (file attached),inbound
-WA_زوجتي_حياتي_012252,WhatsApp,زوجتي حياتي,زوجتي حياتي,2025-11-14T04:27:00,IMG-20251114-WA0001.jpg (file attached),inbound
-WA_زوجتي_حياتي_012252,WhatsApp,زوجتي حياتي,زوجتي حياتي,2025-11-14T04:27:00,IMG-20251114-WA0000.jpg (file attached),inbound
-WA_محمود_رمضان_Ramadane_012453,WhatsApp,,,2025-11-12T17:21:00,"11/11/2025, 10:51 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.",inbound
-WA_محمود_رمضان_Ramadane_012453,WhatsApp,محمود رمضان Ramadane,محمود رمضان Ramadane,2025-11-13T14:09:00,PTT-20251112-WA0000.opus (file attached),inbound
+WA_زوجتي_حياتي_012252,WhatsApp,,Forensics11,2025-11-13T02:31:00,"13/11/2025, 02:31 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.",inbound
+WA_زوجتي_حياتي_012252,WhatsApp,زوجتي حياتي,Forensics11,2025-11-14T01:09:00,IMG-20251113-WA0000.jpg (file attached),inbound
+WA_زوجتي_حياتي_012252,WhatsApp,زوجتي حياتي,Forensics11,2025-11-14T01:22:00,IMG-20251114-WA0000.jpg (file attached),inbound
+WA_زوجتي_حياتي_012252,WhatsApp,زوجتي حياتي,Forensics11,2025-11-14T04:27:00,IMG-20251114-WA0001.jpg (file attached),inbound
+WA_زوجتي_حياتي_012252,WhatsApp,زوجتي حياتي,Forensics11,2025-11-14T04:27:00,IMG-20251114-WA0000.jpg (file attached),inbound
+WA_محمود_رمضان_Ramadane_012453,WhatsApp,,Forensics11,2025-11-12T17:21:00,"11/11/2025, 10:51 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. Learn more.",inbound
+WA_محمود_رمضان_Ramadane_012453,WhatsApp,محمود رمضان Ramadane,Forensics11,2025-11-13T14:09:00,PTT-20251112-WA0000.opus (file attached),inbound
 WA_محمود_رمضان_Ramadane_012453,WhatsApp,Forensics11,محمود,2025-11-17T13:24:00,IMG-20251117-WA0001.jpg (file attached),outbound
 TG_Alpha_Updates,Telegram,Forensics11,Alpha_Updates,2025-11-13T21:21:02+00:00,Prototype A is stable,outbound
-TG_Alpha_Updates,Telegram,Samir,Forensics11,2025-11-13T21:21:34+00:00,Running diagnostics now,inbound
-TG_Alpha_Updates,Telegram,Rania,Forensics11,2025-11-13T21:26:40+00:00,Great,inbound
-TG_Alpha_Updates,Telegram,Rania,Forensics11,2025-11-13T22:49:29+00:00,Let's finalize module C notes by tonight,inbound
-TG_Alpha_Updates,Telegram,Samir,Forensics11,2025-11-13T22:50:09+00:00,I'll upload the sanitized version around 8 pm,inbound
+TG_Alpha_Updates,Telegram,Samir,Alpha_Updates,2025-11-13T21:21:34+00:00,Running diagnostics now,inbound
+TG_Alpha_Updates,Telegram,Rania,Alpha_Updates,2025-11-13T21:26:40+00:00,Great,inbound
+TG_Alpha_Updates,Telegram,Rania,Alpha_Updates,2025-11-13T22:49:29+00:00,Let's finalize module C notes by tonight,inbound
+TG_Alpha_Updates,Telegram,Samir,Alpha_Updates,2025-11-13T22:50:09+00:00,I'll upload the sanitized version around 8 pm,inbound
 TG_Alpha_Updates,Telegram,Forensics11,Alpha_Updates,2025-11-13T22:51:33+00:00,Copy,outbound
 TG_Rania,Telegram,Rania,Forensics11,2025-11-13T21:30:26+00:00,Did you see the notes I added to today's summary?,inbound
 TG_Rania,Telegram,Forensics11,Rania,2025-11-13T21:31:38+00:00,Yes,outbound
