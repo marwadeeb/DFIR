@@ -19,9 +19,7 @@ OUTPUT_FILE = args.output
 contacts_df = pd.read_excel(args.contacts, sheet_name="Contacts Contacts")
 contacts_df['Name'] = contacts_df['Name'].apply(lambda x: x.lower() if isinstance(x, str) else x)
 contacts_df['Tel'] = contacts_df['Tel'].apply(lambda x: x.replace('+','') if isinstance(x, str) else x)
-# print(contacts_df['Name'])
-# print(contacts_df['Tel'])
-print("f")
+
 contact_map = contacts_df.dropna(subset=["Tel"]).drop_duplicates("Tel").set_index("Tel")["Name"].to_dict()
 print(contact_map)
 
@@ -82,23 +80,6 @@ def parse_time(ts):
 
 df['timestamp'] = df['timestamp'].apply(parse_time)
 df.dropna(subset=['timestamp'], inplace=True)
-
-# # Communication type inference
-# def infer_comm_type(row):
-#     src = row['source'].lower()
-#     if 'whatsapp' in src:
-#         return 'whatsapp'
-#     if 'telegram' in src:
-#         return 'telegram'
-#     if 'call' in src:
-#         return 'call'
-#     if 'sms' in src:
-#         return 'sms'
-#     if 'system' in src:
-#         return 'system_message'
-#     return 'unknown'
-
-# df['comm_type'] = df.apply(infer_comm_type, axis=1)
 
 # Save cleaned output
 df.to_csv(OUTPUT_FILE, index=False)

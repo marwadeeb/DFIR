@@ -11,8 +11,6 @@ USER_NAME = "Forensics11"  # The forensic user's name
 # REGEX for Telegram messages
 MESSAGE_PATTERN = re.compile(r"\[ID: (\d+)\],\[date:(.*?)\] From: (.*?)\nText: (.*)")
 
-
-
 rows = []
 
 for file in os.listdir(DATA_ROOT):
