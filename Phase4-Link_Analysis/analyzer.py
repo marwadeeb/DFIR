@@ -8,8 +8,7 @@ import base64
 # Config
 # -----------------------------
 
-
-API_KEY="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"
+API_KEY = os.getenv("OPENROUTER_API_KEY")
 MODEL_NAME = "openai/gpt-oss-20b:free"
 
 parser = argparse.ArgumentParser(
