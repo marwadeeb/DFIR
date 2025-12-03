@@ -3,7 +3,11 @@ import pandas as pd
 from datetime import datetime
 
 # CONFIGURATION
-EXCEL_FILE = "..\\..\\2025-11-17_11.38\\2025-11-17_11.38\\Excel\\2025-11-17_11.38.xlsx"
+# EXCEL_FILE = "..\\..\\2025-11-17_11.38\\2025-11-17_11.38\\Excel\\2025-11-17_11.38.xlsx"
+
+parser.add_argument("-i", "--input", required=True, help="Root Calls and Messages extraction excel file")
+
+EXCEL_FILE = args.input
 CALLS_SHEET = "Calls"
 SMS_SHEET = "Messages SMS"
 CALLS_OUTPUT = "calls_parsed_output.csv"

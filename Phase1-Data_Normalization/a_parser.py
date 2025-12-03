@@ -7,16 +7,28 @@ import pandas as pd
 
 # --- ARGUMENT PARSING ---
 parser = argparse.ArgumentParser(description="Parse call, message, WhatsApp, and Telegram logs into unified format")
+parser.add_argument("-wa", "--waInput", required=True, help="Parsed WhatsApp messages CSV file")
+parser.add_argument("-tg", "--tgInput", required=True, help="Parsed Telegram messages CSV file")
+parser.add_argument("-cm", "--cmInput", required=True, help="Parsed Calls and Messages CSV file")
 parser.add_argument("-o", "--output", required=True, help="Name for output file")
 args = parser.parse_args()
+
 
 OUTPUT_FILE = f"{args.output}"
 
 # CONFIGURATION
-CALLS_FILE = ".\\calls_parsed_output.csv"          # Path to parsed calls CSV
-MESSAGES_FILE = ".\\messages_parsed_output.csv"      # Path to parsed SMS messages CSV
-WHATSAPP_FILE = ".\\whatsapp_parsed_output.csv"  # Parsed WhatsApp
-TELEGRAM_FILE = ".\\telegram_parsed_output.csv"  # Parsed Telegram
+# CALLS_FILE = ".\\calls_parsed_output.csv"          # Path to parsed calls CSV
+# MESSAGES_FILE = ".\\messages_parsed_output.csv"      # Path to parsed SMS messages CSV
+# WHATSAPP_FILE = ".\\whatsapp_parsed_output.csv"  # Parsed WhatsApp
+# TELEGRAM_FILE = ".\\telegram_parsed_output.csv"  # Parsed Telegram
+
+CALLS_FILE = args.cm         # Path to parsed calls CSV
+MESSAGES_FILE = args.cm    # Path to parsed SMS messages CSV
+WHATSAPP_FILE = args.wa # Parsed WhatsApp
+TELEGRAM_FILE = args.tg  # Parsed Telegram
+
+
+
 USER_NAME = "Forensics11"
 
 unified_rows = []

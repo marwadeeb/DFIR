@@ -4,7 +4,11 @@ import csv
 from datetime import datetime
 
 # CONFIGURATION
-DATA_ROOT = "..\\..\\81663932-telegram\\chats"  # Root Telegram extraction directory
+# DATA_ROOT = "..\\..\\81663932-telegram\\chats"  # Root Telegram extraction directory
+
+parser.add_argument("-i", "--input", required=True, help="Root Telegram extraction directory")
+
+DATA_ROOT = args.input
 OUTPUT_FILE = "telegram_parsed_output.csv"
 USER_NAME = "Forensics11"  # The forensic user's name
 
